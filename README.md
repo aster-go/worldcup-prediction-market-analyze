@@ -6,7 +6,7 @@
 
 Want to collaborate or build something? Contact me.
 
-**Telegram:** [t.me/soladity](https://t.me/soladity)
+**Telegram:** [t.me/aster_god](https://t.me/aster_god)
 
 **Live demo:** [worldcup2026-prediction-market.vercel.app](https://worldcup2026-prediction-market.vercel.app/) · English (default) · Spanish [`/es`](https://worldcup2026-prediction-market.vercel.app/es)
 
@@ -203,7 +203,7 @@ public/
 
 Want to collaborate or build something? Contact me.
 
-**Telegram:** [t.me/soladity](https://t.me/soladity)
+**Telegram:** [t.me/aster_god](https://t.me/aster_god)
 
 **Data & references**  
 ELO ratings — [eloratings.net](https://www.eloratings.net/)  
